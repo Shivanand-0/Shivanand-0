@@ -8,6 +8,7 @@
             <ol>
                 <li>Programming languages : C, Java, Java-Script, Python, Embedded C(for Arduino).</li>
                 <li>Databases : MySQL</li>
+                <li>Core AI / ML:  Python, Pandas, NumPy, Scikit-learn, Power BI.</li>
                 <li>Web Based languages : HTML, CSS, Java-Script, Node-Js(framework: express, ejs).</li>
                 <li>Hardware : ArduinoUNO, ArduinoNano, Esp32.</li>
                 <li>OS : Window, Linux</li>
